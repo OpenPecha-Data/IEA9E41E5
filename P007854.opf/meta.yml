@@ -1,15 +1,16 @@
-id: opecha:P007854
+id: P007854
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17445
   title: རྒྱུད་སྡེ་བཞིའི་སྡོམ་ཚིག་རྒྱུད་དོན་བལྟ་བའི་མིག་འབྱེད།
-  volume:
+  author: ''
+  volumes:
     c75f6a3b116b4de3b0ffe3963dd11f15:
       image_group_id: I8LS17454
       title: Volume 1 of rgyud sde bzhi'i sdom tshig rgyud don blta ba'i mig 'byed/
       volume_number: 1
       total_pages: 84
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: རྒྱུད་སྡེ་བཞིའི་སྡོམ་ཚིག་རྒྱུད་དོན་བལྟ་བའི་མིག་འབྱེད།
   author: ''
